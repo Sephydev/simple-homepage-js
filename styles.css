@@ -27,3 +27,7 @@ nav {
     background-color: #FFFFFF;
     padding: 2rem;
 }
+
+ul {
+    list-style: none;
+}
