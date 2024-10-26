@@ -69,6 +69,10 @@ a:hover {
     width: 16px;
 }
 
+.hero-img {
+    max-width: 100%;
+}
+
 .selected {
     background-color: #FFFFFF;
     border-radius: 5rem;
