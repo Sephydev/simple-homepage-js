@@ -57,6 +57,7 @@ a:hover {
 
 .theme-btn {
     background-color: #111729;
+    border-radius: 5rem;
 }
 
 .hide {
