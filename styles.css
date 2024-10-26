@@ -61,8 +61,12 @@ a:hover {
     display: flex;
     margin: 0 auto;
     padding: 0.1rem;
-    width: 3.5rem;
+    width: 2.5rem;
     justify-content: space-between;
+}
+
+.theme-btn img {
+    width: 16px;
 }
 
 .selected {
