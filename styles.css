@@ -71,3 +71,7 @@ a:hover {
 .hide {
     display: none;
 }
+
+.dark {
+    background-color: #223344;
+}
