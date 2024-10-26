@@ -107,6 +107,10 @@ h1 {
     margin-top: 2rem;
 }
 
+.last img {
+    margin-right: 0.5rem;
+}
+
 .get-started {
     color: #FFFFFF;
     background-color: #2A4DD0;
