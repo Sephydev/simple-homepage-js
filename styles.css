@@ -104,6 +104,7 @@ h1 {
     color: #909193;
     display: flex;
     align-items: center;
+    margin-top: 2rem;
 }
 
 .get-started {
