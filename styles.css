@@ -73,9 +73,13 @@ a:hover {
 }
 
 .dark {
-    background-color: #223344;
+    background-color: #111729;
 }
 
 .dark button {
     color: #FFFFFF;
+}
+
+.dark nav {
+    background-color:#223344
 }
