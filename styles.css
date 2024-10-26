@@ -111,6 +111,7 @@ h1 {
     margin-left: 2rem;
     font-size: 1rem;
     font-weight: 600;
+    text-decoration-thickness: 0.15rem;
 }
 
 .selected {
