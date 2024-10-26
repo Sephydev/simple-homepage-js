@@ -17,4 +17,5 @@ header {
 
 button {
     border: none;
+    background-color: inherit;
 }
