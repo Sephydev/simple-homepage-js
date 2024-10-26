@@ -39,6 +39,10 @@ ul {
     padding: 0;
 }
 
+li {
+    margin: 2rem 5.5rem;
+}
+
 a {
     text-decoration: none;
     color: #919193;
