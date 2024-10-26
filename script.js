@@ -18,11 +18,14 @@ closeNav.addEventListener("click", function(e) {
 
 themeBtn.addEventListener("click", function(e) {
     const body = document.getElementById("body-theme");
+    const logo = document.getElementById("logo");
 
     if (isDark) {
         body.classList.remove("dark");
+        logo.src = "./assets/alarado-icon-homepage.svg";
     } else {
         body.classList.add("dark");
+        logo.src = "./assets/alarado-icon-homepage-dark.svg";
     }
 
     isDark = !isDark
