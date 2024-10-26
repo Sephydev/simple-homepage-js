@@ -60,6 +60,7 @@ a:hover {
     border-radius: 5rem;
     display: flex;
     margin: 0 auto;
+    padding: 0.1rem;
 }
 
 .selected {
