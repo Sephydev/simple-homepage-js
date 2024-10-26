@@ -158,3 +158,9 @@ p {
 .dark nav {
     background-color:#223344
 }
+
+@media screen and (min-width: 1024px) {
+    .button-nav {
+        display: none;
+    }
+}
