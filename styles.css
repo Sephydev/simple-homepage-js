@@ -94,7 +94,14 @@ h1 {
 
 .small-txt {
     font-size: 0.875rem;
+}
+
+.intro {
     font-weight: 600;
+}
+
+.last {
+    color: #909193;
 }
 
 .get-started {
