@@ -186,5 +186,13 @@ p {
     li {
         padding: 0 1.25rem;
         margin: 0;
+    }  
+
+    .dark nav {
+        background-color: inherit;
+    }
+
+    .dark .theme-btn {
+        background-color: #223344;
     }
 }
