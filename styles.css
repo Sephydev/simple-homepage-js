@@ -163,4 +163,28 @@ p {
     .button-nav {
         display: none;
     }
+
+    .hide {
+        display: flex;
+        position: static;
+        justify-content: space-between;
+        padding: 0;
+        height: auto;
+        background-color: inherit;
+        width: 70%
+    }
+
+    .hide button {
+        margin: 0;
+    }
+
+    ul {
+        display: flex;
+        font-size: 0.875rem;
+    }
+
+    li {
+        padding: 0 1.25rem;
+        margin: 0;
+    }
 }
