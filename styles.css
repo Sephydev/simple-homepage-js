@@ -61,6 +61,8 @@ a:hover {
     display: flex;
     margin: 0 auto;
     padding: 0.1rem;
+    width: 3.5rem;
+    justify-content: space-between;
 }
 
 .selected {
