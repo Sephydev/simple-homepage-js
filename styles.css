@@ -116,7 +116,12 @@ p {
 
 .last {
     align-items: center;
-    margin-top: 2rem;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+}
+
+.last-p {
+    margin-top: 1rem;
 }
 
 .last img {
@@ -128,6 +133,7 @@ p {
     background-color: #2A4DD0;
     padding: 1rem 2rem;
     border-radius: 0.75rem;
+    margin-right: 2rem;
 }
 
 .get-started, .dark, .dark h1, .dark button, .dark a:hover {
@@ -139,10 +145,11 @@ p {
 }
 
 .live-demo {
+    display: inline-block;
     color: #2A4DD0;
     text-decoration: underline;
-    margin-left: 2rem;
     text-underline-offset: 0.15rem;
+    margin: 1rem 0;
     font-weight: 600;
     text-decoration-thickness: 0.15rem;
 }
