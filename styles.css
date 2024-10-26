@@ -87,6 +87,10 @@ h1 {
     color: #223344;
 }
 
+.intro-txt{
+    margin: 2rem 0;
+}
+
 .small-txt {
     font-size: 0.875rem;
     font-weight: 600;
