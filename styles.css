@@ -54,3 +54,7 @@ a {
 a:hover {
     color: #111729;
 }
+
+.hide {
+    display: none;
+}
