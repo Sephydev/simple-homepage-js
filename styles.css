@@ -69,6 +69,10 @@ a:hover {
     width: 16px;
 }
 
+main {
+    padding: 3rem 1rem;
+}
+
 .hero-img {
     max-width: 100%;
 }
