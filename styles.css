@@ -111,6 +111,10 @@ h1 {
     color: #FFFFFF
 }
 
+.dark h1 {
+    color: #FFFFFF;
+}
+
 .dark button {
     color: #FFFFFF;
 }
