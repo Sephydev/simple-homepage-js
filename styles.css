@@ -195,4 +195,23 @@ p {
     .dark .theme-btn {
         background-color: #223344;
     }
+
+    .hero-img {
+        max-width: 60%;
+        display: block;
+        margin: 0 auto;
+    }
+
+    main {
+        margin: 4rem 3rem 0;
+        padding: 0;
+    }
+
+    .main-text {
+        width: 90%;
+    }
+
+    .intro-txt {
+        width: 60%;
+    }
 }
