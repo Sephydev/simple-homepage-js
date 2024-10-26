@@ -107,6 +107,7 @@ h1 {
 
 .live-demo {
     color: #2A4DD0;
+    text-decoration: underline;
 }
 
 .selected {
