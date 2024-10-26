@@ -77,6 +77,10 @@ main {
     max-width: 100%;
 }
 
+div {
+    margin: 8rem 3.5rem;
+}
+
 .small-txt {
     font-size: 0.875rem;
     font-weight: 600;
@@ -93,6 +97,7 @@ main {
 
 .dark {
     background-color: #111729;
+    color: #FFFFFF
 }
 
 .dark button {
