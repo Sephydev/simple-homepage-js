@@ -59,6 +59,7 @@ a:hover {
     background-color: #111729;
     border-radius: 5rem;
     display: flex;
+    margin: 0 auto;
 }
 
 .hide {
