@@ -75,3 +75,7 @@ a:hover {
 .dark {
     background-color: #223344;
 }
+
+.dark button {
+    color: #FFFFFF;
+}
