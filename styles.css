@@ -102,6 +102,7 @@ h1 {
     background-color: #2A4DD0;
     font-size: 1rem;
     padding: 1rem 2rem;
+    border-radius: 0.75rem;
 }
 
 .selected {
