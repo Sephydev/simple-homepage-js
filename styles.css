@@ -62,6 +62,10 @@ a:hover {
     margin: 0 auto;
 }
 
+.selected {
+    background-color: #FFFFFF;
+}
+
 .hide {
     display: none;
 }
