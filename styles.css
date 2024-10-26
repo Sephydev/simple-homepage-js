@@ -27,6 +27,7 @@ button {
 nav {
     position: absolute;
     right: 0;
+    top: 0;
     background-color: #FFFFFF;
     padding: 2rem;
     font-size: 2.75rem;
@@ -35,6 +36,7 @@ nav {
 
 ul {
     list-style: none;
+    padding: 0;
 }
 
 a {
